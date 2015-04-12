@@ -1,5 +1,5 @@
 {
-  "server_maintenance": false,
+  "server_maintenance": true,
   "server_api_version": "1.0.0",
   "server_root_url": "",
   "android_app_version": "1.0.0",
