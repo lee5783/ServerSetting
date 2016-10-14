@@ -1,8 +1,8 @@
 {
   "server_maintenance": false,
-  "server_api_version": "1.0.0",
+  "server_api_version": "1.1.0",
   "server_root_url": "",
-  "android_app_version": "1.1.0",
-  "android_app_build_number": 2,
+  "android_app_version": "1.1.4",
+  "android_app_build_number": 6,
   "android_app_update_url": ""
 }
